@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\basic_op\\newone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:2:0:{505A33F3-D7F8-4C92-BB29-6023E3DFF08E}|newone\\basicname.csproj|c:\\users\\ravindrasampath\\desktop\\finalapp\\finalsoftware\\basic_op\\newone\\newone\\basic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{505A33F3-D7F8-4C92-BB29-6023E3DFF08E}|newone\\basicname.csproj|solutionrelative:newone\\basic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505A33F3-D7F8-4C92-BB29-6023E3DFF08E}|newone\\basicname.csproj|C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\basic_op\\newone\\newone\\basic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{505A33F3-D7F8-4C92-BB29-6023E3DFF08E}|newone\\basicname.csproj|solutionrelative:newone\\basic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505A33F3-D7F8-4C92-BB29-6023E3DFF08E}|newone\\basicname.csproj|C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\basic_op\\newone\\newone\\basic.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505A33F3-D7F8-4C92-BB29-6023E3DFF08E}|newone\\basicname.csproj|solutionrelative:newone\\basic.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505A33F3-D7F8-4C92-BB29-6023E3DFF08E}|newone\\newone.csproj|C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\basic_op\\newone\\newone\\basic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505A33F3-D7F8-4C92-BB29-6023E3DFF08E}|newone\\newone.csproj|solutionrelative:newone\\basic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "basic.cs",
+              "DocumentMoniker": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\basic_op\\newone\\newone\\basic.cs",
+              "RelativeDocumentMoniker": "newone\\basic.cs",
+              "ToolTip": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\basic_op\\newone\\newone\\basic.cs",
+              "RelativeToolTip": "newone\\basic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:41:59.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "basic.cs",
+              "DocumentMoniker": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\basic_op\\newone\\newone\\basic.cs",
+              "RelativeDocumentMoniker": "newone\\basic.cs",
+              "ToolTip": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\basic_op\\newone\\newone\\basic.cs",
+              "RelativeToolTip": "newone\\basic.cs",
+              "ViewState": "AQIAAPoAAAAAAAAAAAAUwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:34:39.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "basic.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\basic_op\\newone\\newone\\basic.Designer.cs",
+              "RelativeDocumentMoniker": "newone\\basic.Designer.cs",
+              "ToolTip": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\basic_op\\newone\\newone\\basic.Designer.cs",
+              "RelativeToolTip": "newone\\basic.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:43:42.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "basic.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\basic_op\\newone\\newone\\basic.cs",
+              "RelativeDocumentMoniker": "newone\\basic.cs",
+              "ToolTip": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\basic_op\\newone\\newone\\basic.cs [Design]",
+              "RelativeToolTip": "newone\\basic.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:39:18.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

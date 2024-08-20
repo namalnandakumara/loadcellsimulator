@@ -1,0 +1,124 @@
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\comapp.exe.config
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\comapp.exe
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\comapp.pdb
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\obj\Debug\comapp.csproj.AssemblyReference.cache
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\obj\Debug\comapp.Form1.resources
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\obj\Debug\comapp.Properties.Resources.resources
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\obj\Debug\comapp.csproj.GenerateResource.cache
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\obj\Debug\comapp.csproj.CoreCompileInputs.cache
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\obj\Debug\comapp.exe
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\obj\Debug\comapp.pdb
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\axel.exe
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\knob.exe
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\newone.exe
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\weight.exe
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\wt.exe
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\KnobControl.dll
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\axel.pdb
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\axel.exe.config
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\newone.pdb
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\newone.exe.config
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\knob.pdb
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\knob.exe.config
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\wt.pdb
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\wt.exe.config
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\weight.pdb
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\weight.exe.config
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\KnobControl.pdb
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\obj\Debug\comapp.csproj.Up2Date
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\viewname.exe
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\viewname.pdb
+C:\Users\RavindraSampath\Desktop\finalsoftware\comapp\comapp\bin\Debug\viewname.exe.config
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\comapp.exe.config
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\comapp.exe
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\comapp.pdb
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\axel.exe
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\knob.exe
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\newone.exe
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\viewname.exe
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\weight.exe
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\wt.exe
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\KnobControl.dll
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\axel.pdb
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\axel.exe.config
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\newone.pdb
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\newone.exe.config
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\knob.pdb
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\knob.exe.config
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\viewname.pdb
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\viewname.exe.config
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\wt.pdb
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\wt.exe.config
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\weight.pdb
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\weight.exe.config
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\KnobControl.pdb
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\obj\Debug\comapp.csproj.AssemblyReference.cache
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\obj\Debug\comapp.Form1.resources
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\obj\Debug\comapp.Properties.Resources.resources
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\obj\Debug\comapp.csproj.GenerateResource.cache
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\obj\Debug\comapp.csproj.CoreCompileInputs.cache
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\obj\Debug\comapp.csproj.Up2Date
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\obj\Debug\comapp.exe
+C:\Users\namal\Desktop\finalapp\finalsoftware\comapp\comapp\obj\Debug\comapp.pdb
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\comapp.exe.config
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\comapp.exe
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\comapp.pdb
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\axel.exe
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\knob.exe
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\newone.exe
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\viewname.exe
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\weight.exe
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\wt.exe
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\KnobControl.dll
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\axel.pdb
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\axel.exe.config
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\newone.pdb
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\newone.exe.config
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\knob.pdb
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\knob.exe.config
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\viewname.pdb
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\viewname.exe.config
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\wt.pdb
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\wt.exe.config
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\weight.pdb
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\weight.exe.config
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\bin\Debug\KnobControl.pdb
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\obj\Debug\comapp.csproj.AssemblyReference.cache
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\obj\Debug\comapp.Form1.resources
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\obj\Debug\comapp.Properties.Resources.resources
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\obj\Debug\comapp.csproj.GenerateResource.cache
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\obj\Debug\comapp.csproj.CoreCompileInputs.cache
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\obj\Debug\comapp.csproj.Up2Date
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\obj\Debug\comapp.exe
+C:\Users\RavindraSampath\Desktop\finalapp\finalsoftware\comapp\comapp\obj\Debug\comapp.pdb
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\comapp.exe.config
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\comapp.exe
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\comapp.pdb
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\axel.exe
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\knob.exe
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\newone.exe
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\viewname.exe
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\weight.exe
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\wt.exe
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\KnobControl.dll
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\axel.pdb
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\axel.exe.config
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\newone.pdb
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\newone.exe.config
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\knob.pdb
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\knob.exe.config
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\viewname.pdb
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\viewname.exe.config
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\wt.pdb
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\wt.exe.config
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\weight.pdb
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\weight.exe.config
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\bin\Debug\KnobControl.pdb
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\obj\Debug\comapp.csproj.AssemblyReference.cache
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\obj\Debug\comapp.Form1.resources
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\obj\Debug\comapp.Properties.Resources.resources
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\obj\Debug\comapp.csproj.GenerateResource.cache
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\obj\Debug\comapp.csproj.CoreCompileInputs.cache
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\obj\Debug\comapp.csproj.Up2Date
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\obj\Debug\comapp.exe
+D:\rinstrum diary\finalversion\finalapp\app and c code\finalsoftware\comapp\comapp\obj\Debug\comapp.pdb

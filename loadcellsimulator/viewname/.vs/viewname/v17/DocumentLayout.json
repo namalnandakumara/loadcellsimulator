@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namal\\Desktop\\finalapp\\finalsoftware\\viewname\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC50266-DFFA-459C-B691-C09A666881EC}|viewname\\viewname.csproj|c:\\users\\namal\\desktop\\finalapp\\finalsoftware\\viewname\\viewname\\viewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC50266-DFFA-459C-B691-C09A666881EC}|viewname\\viewname.csproj|solutionrelative:viewname\\viewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC50266-DFFA-459C-B691-C09A666881EC}|viewname\\viewname.csproj|C:\\Users\\namal\\Desktop\\finalapp\\finalsoftware\\viewname\\viewname\\viewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC50266-DFFA-459C-B691-C09A666881EC}|viewname\\viewname.csproj|solutionrelative:viewname\\viewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC50266-DFFA-459C-B691-C09A666881EC}|viewname\\viewname.csproj|C:\\Users\\namal\\Desktop\\finalapp\\finalsoftware\\viewname\\viewname\\viewform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC50266-DFFA-459C-B691-C09A666881EC}|viewname\\viewname.csproj|solutionrelative:viewname\\viewform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "viewForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\namal\\Desktop\\finalapp\\finalsoftware\\viewname\\viewname\\viewForm.cs",
+              "RelativeDocumentMoniker": "viewname\\viewForm.cs",
+              "ToolTip": "C:\\Users\\namal\\Desktop\\finalapp\\finalsoftware\\viewname\\viewname\\viewForm.cs [Design]",
+              "RelativeToolTip": "viewname\\viewForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T03:54:24.356Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "viewForm.cs",
+              "DocumentMoniker": "C:\\Users\\namal\\Desktop\\finalapp\\finalsoftware\\viewname\\viewname\\viewForm.cs",
+              "RelativeDocumentMoniker": "viewname\\viewForm.cs",
+              "ToolTip": "C:\\Users\\namal\\Desktop\\finalapp\\finalsoftware\\viewname\\viewname\\viewForm.cs",
+              "RelativeToolTip": "viewname\\viewForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA3wCIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T03:48:08.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "viewForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\namal\\Desktop\\finalapp\\finalsoftware\\viewname\\viewname\\viewForm.Designer.cs",
+              "RelativeDocumentMoniker": "viewname\\viewForm.Designer.cs",
+              "ToolTip": "C:\\Users\\RavindraSampath\\Desktop\\finalsoftware\\viewname\\viewname\\viewForm.Designer.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RavindraSampath\\Desktop\\finalsoftware\\viewname\\viewname\\viewForm.Designer.cs*",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T03:44:55.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

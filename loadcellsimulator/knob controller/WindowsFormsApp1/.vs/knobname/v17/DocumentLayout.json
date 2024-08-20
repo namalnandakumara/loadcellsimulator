@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4314FB3-BC79-4105-88A8-23272218E263}|WindowsFormsApp1\\knobname.csproj|c:\\users\\ravindrasampath\\desktop\\finalapp\\finalsoftware\\knob controller\\windowsformsapp1\\windowsformsapp1\\knob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4314FB3-BC79-4105-88A8-23272218E263}|WindowsFormsApp1\\knobname.csproj|solutionrelative:windowsformsapp1\\knob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{F4314FB3-BC79-4105-88A8-23272218E263}|WindowsFormsApp1\\knobname.csproj|C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\windowsformsapp1\\knob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{F4314FB3-BC79-4105-88A8-23272218E263}|WindowsFormsApp1\\knobname.csproj|solutionrelative:windowsformsapp1\\knob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4314FB3-BC79-4105-88A8-23272218E263}|WindowsFormsApp1\\knobname.csproj|C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\windowsformsapp1\\knob.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4314FB3-BC79-4105-88A8-23272218E263}|WindowsFormsApp1\\knobname.csproj|solutionrelative:windowsformsapp1\\knob.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RavindraSampath\\Desktop\\diary photo\\Codes (Digital Potentiometer)\\C\\Weight\\main.c||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4314FB3-BC79-4105-88A8-23272218E263}|WindowsFormsApp1\\knobname.csproj|C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4314FB3-BC79-4105-88A8-23272218E263}|WindowsFormsApp1\\knobname.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:3:0:{F4314FB3-BC79-4105-88A8-23272218E263}|WindowsFormsApp1\\knobname.csproj|c:\\users\\ravindrasampath\\desktop\\finalapp\\finalsoftware\\knob controller\\windowsformsapp1\\windowsformsapp1\\knob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:3:0:{F4314FB3-BC79-4105-88A8-23272218E263}|WindowsFormsApp1\\knobname.csproj|solutionrelative:windowsformsapp1\\knob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4314FB3-BC79-4105-88A8-23272218E263}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\windowsformsapp1\\knob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4314FB3-BC79-4105-88A8-23272218E263}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\knob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4314FB3-BC79-4105-88A8-23272218E263}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\windowsformsapp1\\knob.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4314FB3-BC79-4105-88A8-23272218E263}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\knob.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\RavindraSampath\\Desktop\\diary photo\\Codes (Digital Potentiometer)\\C\\Weight\\main.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\diary photo\\Codes (Digital Potentiometer)\\C\\Weight\\main.c",
+              "ToolTip": "C:\\Users\\RavindraSampath\\Desktop\\diary photo\\Codes (Digital Potentiometer)\\C\\Weight\\main.c",
+              "RelativeToolTip": "..\\..\\..\\..\\diary photo\\Codes (Digital Potentiometer)\\C\\Weight\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-11T09:05:15.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:03:23.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "knob.cs",
+              "DocumentMoniker": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\WindowsFormsApp1\\knob.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\knob.cs",
+              "ToolTip": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\WindowsFormsApp1\\knob.cs*",
+              "RelativeToolTip": "WindowsFormsApp1\\knob.cs*",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:02:42.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "knob.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\WindowsFormsApp1\\knob.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\knob.Designer.cs",
+              "ToolTip": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\WindowsFormsApp1\\knob.Designer.cs*",
+              "RelativeToolTip": "WindowsFormsApp1\\knob.Designer.cs*",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:49:32.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "knob.cs",
+              "DocumentMoniker": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\WindowsFormsApp1\\knob.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\knob.cs",
+              "ToolTip": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\WindowsFormsApp1\\knob.cs*",
+              "RelativeToolTip": "WindowsFormsApp1\\knob.cs*",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAcwIkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:12:57.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "knob.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\WindowsFormsApp1\\knob.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\knob.cs",
+              "ToolTip": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\WindowsFormsApp1\\knob.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp1\\knob.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:52:06.775Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "knob.cs",
+              "DocumentMoniker": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\WindowsFormsApp1\\knob.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\knob.cs",
+              "ToolTip": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\WindowsFormsApp1\\knob.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\knob.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:52:39.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "knob.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\WindowsFormsApp1\\knob.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\knob.Designer.cs",
+              "ToolTip": "C:\\Users\\RavindraSampath\\Desktop\\finalapp\\finalsoftware\\knob controller\\WindowsFormsApp1\\WindowsFormsApp1\\knob.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\knob.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:47:48.124Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

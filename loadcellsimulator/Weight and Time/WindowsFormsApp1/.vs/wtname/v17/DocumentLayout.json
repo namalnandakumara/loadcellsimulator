@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RavindraSampath\\Desktop\\finalsoftware\\Weight and Time\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC3ADD5-4C6E-435C-8656-3BD41426FDAE}|WindowsFormsApp1\\wtname.csproj|C:\\Users\\RavindraSampath\\Desktop\\finalsoftware\\Weight and Time\\WindowsFormsApp1\\windowsformsapp1\\wt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC3ADD5-4C6E-435C-8656-3BD41426FDAE}|WindowsFormsApp1\\wtname.csproj|solutionrelative:windowsformsapp1\\wt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC3ADD5-4C6E-435C-8656-3BD41426FDAE}|WindowsFormsApp1\\wtname.csproj|c:\\users\\ravindrasampath\\desktop\\finalsoftware\\weight and time\\windowsformsapp1\\windowsformsapp1\\wt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BC3ADD5-4C6E-435C-8656-3BD41426FDAE}|WindowsFormsApp1\\wtname.csproj|solutionrelative:windowsformsapp1\\wt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|wtname||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC3ADD5-4C6E-435C-8656-3BD41426FDAE}|WindowsFormsApp1\\wtname.csproj|C:\\Users\\RavindraSampath\\Desktop\\finalsoftware\\Weight and Time\\WindowsFormsApp1\\windowsformsapp1\\wt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC3ADD5-4C6E-435C-8656-3BD41426FDAE}|WindowsFormsApp1\\wtname.csproj|solutionrelative:windowsformsapp1\\wt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "wt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\RavindraSampath\\Desktop\\finalsoftware\\Weight and Time\\WindowsFormsApp1\\WindowsFormsApp1\\wt.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\wt.cs",
+              "ToolTip": "C:\\Users\\RavindraSampath\\Desktop\\finalsoftware\\Weight and Time\\WindowsFormsApp1\\WindowsFormsApp1\\wt.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\wt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T03:19:56.279Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "wtname",
+              "DocumentMoniker": "C:\\Users\\RavindraSampath\\Desktop\\finalsoftware\\Weight and Time\\WindowsFormsApp1\\WindowsFormsApp1\\wtname.csproj",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\wtname.csproj",
+              "ToolTip": "C:\\Users\\RavindraSampath\\Desktop\\finalsoftware\\Weight and Time\\WindowsFormsApp1\\WindowsFormsApp1\\wtname.csproj",
+              "RelativeToolTip": "WindowsFormsApp1\\wtname.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-08T03:19:11.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "wt.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\RavindraSampath\\Desktop\\finalsoftware\\Weight and Time\\WindowsFormsApp1\\WindowsFormsApp1\\wt.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\wt.Designer.cs",
+              "ToolTip": "C:\\Users\\RavindraSampath\\Desktop\\finalsoftware\\Weight and Time\\WindowsFormsApp1\\WindowsFormsApp1\\wt.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\wt.Designer.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAYwJIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:47:48.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "wt.cs",
+              "DocumentMoniker": "C:\\Users\\RavindraSampath\\Desktop\\finalsoftware\\Weight and Time\\WindowsFormsApp1\\WindowsFormsApp1\\wt.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\wt.cs",
+              "ToolTip": "C:\\Users\\RavindraSampath\\Desktop\\finalsoftware\\Weight and Time\\WindowsFormsApp1\\WindowsFormsApp1\\wt.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\wt.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:52:39.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
